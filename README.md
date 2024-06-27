@@ -1,2 +1,2 @@
 # Portfolio
-Second project as a web development intern at Oasis Infobyte
+Another project as a web development intern
